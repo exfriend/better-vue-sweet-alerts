@@ -1,0 +1,30 @@
+{
+  "name": "better-vue-sweet-alerts",
+  "version": "1.0.0",
+  "description": "Cleaner and better SweetAlert2 for Vue 2.x",
+  "main": "VueSweetAlert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "vue": "^2.5",
+    "object-assign": "^4.1.1",
+    "sweetalert2": "^7.19.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exfriend/better-vue-sweet-alerts.git"
+  },
+  "keywords": [
+    "SweetAlert",
+    "Vue",
+    "alert",
+    "vuejs"
+  ],
+  "author": "exfriend <i@zlad.tk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/exfriend/better-vue-sweet-alerts/issues"
+  },
+  "homepage": "https://github.com/exfriend/better-vue-sweet-alerts#readme"
+}
