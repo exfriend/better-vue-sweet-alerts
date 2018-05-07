@@ -1,8 +1,8 @@
 {
   "name": "better-vue-sweet-alerts",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Cleaner and better SweetAlert2 for Vue 2.x",
-  "main": "VueSweetAlert.js",
+  "main": "src/VueSweetAlert.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
